@@ -42,14 +42,14 @@ Below are the images demonstrating the flow and functionality of the system:
 
 | Step | Screenshot |
 |------|------------|
-| 1️⃣ Home Page | ![](images/one.png) |
+| 1️⃣ Home Page | ![](images/seven.png)  |
 | 2️⃣ Login Page |  ![](images/eight.png) |
 | 3️⃣ User Dashboard | ![](images/three.png) |
 | 4️⃣ Parking Slot Overview | ![](images/four.png) |
 | 5️⃣ Booking Slot Page | ![](images/five.png) |
 | 6️⃣ Admin Dashboard | ![](images/six.png) |
-| 7️⃣ Reports View | ![](images/seven.png) |
-| 8️⃣ Logout or Exit Page |![](images/two.png) |
+| 7️⃣ Reports View |  ![](images/two.png)|
+| 8️⃣ Logout or Exit Page |![](images/one.png)|
 
 
 ---
