@@ -24,6 +24,8 @@ The **Safety Zone Vehicle Parking System** was developed in response to the chal
 - **CSS** – for styling and responsive layout with basic input validation.
 - **PHP** – for server-side scripting and handling business logic.
 - **XAMPP (Apache + MySQL)** – for local server and database management.
+- **jQuery** - for styling and minimizing code.
+- **Bootstrap** - for efficient code written.
 
 ---
 
