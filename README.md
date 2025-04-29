@@ -42,8 +42,8 @@ Below are the images demonstrating the flow and functionality of the system:
 
 | Step | Screenshot |
 |------|------------|
-| 1️⃣ Home Page | ![](images/seven.png)  |
-| 2️⃣ Login Page |  ![](images/eight.png) |
+| 1️⃣ Login Page |  ![](images/eight.png)  |
+| 2️⃣ Home Page | ![](images/seven.png) |
 | 3️⃣ Car Category | ![](images/six.png)  |
 | 4️⃣ Vehicle Entry | ![](images/five.png) |
 | 5️⃣ In Vehicles | ![](images/four.png) |
