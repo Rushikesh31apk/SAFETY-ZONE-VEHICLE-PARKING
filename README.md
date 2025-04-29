@@ -87,6 +87,6 @@ The **Safety Zone Vehicle Parking System** is a modern, scalable, and practical 
 
 Rushikesh Narawade  
 📍 Pune, Maharashtra  
-📧 [narawaderushikesh@gmail.com]  
-🌐 [https://rushikesh31apk.bio.link/]
+📧 narawaderushikesh@gmail.com
+🌐 https://rushikesh31apk.bio.link/
 
