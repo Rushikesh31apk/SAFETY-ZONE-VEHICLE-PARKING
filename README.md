@@ -44,12 +44,12 @@ Below are the images demonstrating the flow and functionality of the system:
 |------|------------|
 | 1️⃣ Home Page | ![](images/seven.png)  |
 | 2️⃣ Login Page |  ![](images/eight.png) |
-| 3️⃣ User Dashboard | ![](images/three.png) |
-| 4️⃣ Parking Slot Overview | ![](images/four.png) |
-| 5️⃣ Booking Slot Page | ![](images/five.png) |
-| 6️⃣ Admin Dashboard | ![](images/six.png) |
+| 3️⃣ Car Category | ![](images/six.png)  |
+| 4️⃣ Vehicle Entry | ![](images/five.png) |
+| 5️⃣ In Vehicles | ![](images/four.png) |
+| 6️⃣ OUt Vehicles | ![](images/three.png) |
 | 7️⃣ Reports View |  ![](images/two.png)|
-| 8️⃣ Logout or Exit Page |![](images/one.png)|
+| 8️⃣ Total Income |![](images/one.png)|
 
 
 ---
